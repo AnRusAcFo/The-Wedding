@@ -37,9 +37,9 @@ h1 {
     color: #24dc24;
     font-size: 30px;
 }h2 {
-    font-family: BeauRivage;
+    /* font-family: BeauRivage; */
     font-weight: bold;
-    color: #ef0b0b;
+    color: #0e9684;
     font-size: 17px;
 }h3 {
     font-family: BeauRivage;
@@ -65,7 +65,7 @@ h1 {
 	background: url(../images/hoaCuoi3.jpg) no-repeat;
 	background-size: 100%;
 	background-attachment: fixed;
-	height: 650px;
+	height: 400px;
 	color: white;
 }section#invited h1 {
     padding: 210px 0 0 0;
